@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-main: #f7f8fa;
+    --text-main: #20252c;
+    --card-bg: #ffffff;
+    --primary-green: #137b65;
+    --primary-green-hover: #0f6352;
+    --compare-green: #127c68;
+    --compare-purple: #6a66c9;
+    --border-subtle: #e1e5e9;
+    --text-muted: #666d79;
+    --accent-bg: #e8f3ef;
+    --slot-a: #127c68;
+    --slot-b: #6a66c9;
+    --slot-c: #d97706;
+    --slot-d: #2563eb;
+    --slot-e: #e11d48;
+    --slot-f: #0d9488;
+  }
+
+  .dark {
+    --bg-main: #11161c;
+    --text-main: #eef2f6;
+    --card-bg: #192029;
+    --primary-green: #64d7b5;
+    --primary-green-hover: #7eedcf;
+    --compare-green: #56d9b8;
+    --compare-purple: #b0a3ff;
+    --border-subtle: #303b47;
+    --text-muted: #9aa4b2;
+    --accent-bg: #1e2833;
+    --slot-a: #56d9b8;
+    --slot-b: #b0a3ff;
+    --slot-c: #fbbf24;
+    --slot-d: #60a5fa;
+    --slot-e: #fb7185;
+    --slot-f: #2dd4bf;
+  }
+
+  body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  [dir="rtl"] body {
+    font-family: 'Tajawal', 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
