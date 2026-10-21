@@ -1,12 +1,13 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "keyscale",
+  "main": "worker/index.ts",
   "compatibility_date": "2025-02-01",
   "compatibility_flags": ["nodejs_compat"],
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",
-    "html_handling": "single-page-application",
+    "html_handling": "auto-trailing-slash",
     "not_found_handling": "single-page-application"
   },
   "d1_databases": [
