@@ -21,7 +21,7 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Run automated test suite
         run: npm test
@@ -30,4 +30,4 @@ jobs:
         run: npm run build
 
       - name: Validate Cloudflare configuration
-        run: npx wrangler types
+        run: npx wrangler deploy --dry-run
