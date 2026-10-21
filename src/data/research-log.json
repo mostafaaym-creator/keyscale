@@ -1,0 +1,2525 @@
+[
+  {
+    "modelId": "akko-gem-02-via",
+    "fields": [
+      "weight"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://en.akkogear.com/product/gem-02-black-silver-via-mechanical-keyboard/",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:44",
+        "outcome": "Manufacturer page extracted,409lines; no weight in exposed text."
+      },
+      {
+        "url": "https://akkogear.eu/products/gem-02-via-custom-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:49",
+        "outcome": "721lines; Weight find no match."
+      },
+      {
+        "url": "https://www.monsgeek.com/product/m5/",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:21",
+        "outcome": "557lines; comparison specifically names Gem02 VIA assembled~2.70kg; find repeated15:16:31."
+      },
+      {
+        "url": "https://www.monsgeek.com/keyboard/akko-gem-02-via-black-silver-mechanical-keyboard/",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:43",
+        "outcome": "Clicked direct Gem02 link from comparison,441lines; weight find no match."
+      }
+    ],
+    "nextAction": "Reopen https://en.akkogear.com/product/gem-02-black-silver-via-mechanical-keyboard/; verify the exact configuration and missing measurement in the manufacturer manual; retain the logged access/condition conflicts."
+  },
+  {
+    "modelId": "keychron-b11-pro",
+    "fields": [
+      "height"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://www.keychron.com/products/keychron-b11-pro-ultra-slim-wireless-foldable-keyboard",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:44",
+        "outcome": "Manufacturer page extracted,1619lines; height/mm find no matches. Later discovery extraction returned two-dimensional specs only."
+      },
+      {
+        "url": "https://www.tomsguide.com/computing/keyboards/keychron-b11-pro-review",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:31",
+        "outcome": "935lines;0.2inch condition contradiction confirmed15:16:43."
+      }
+    ],
+    "nextAction": "Reopen https://www.keychron.com/products/keychron-b11-pro-ultra-slim-wireless-foldable-keyboard; verify the exact configuration and missing measurement in the manufacturer manual; retain the logged access/condition conflicts."
+  },
+  {
+    "modelId": "chilkey-nd-tkl",
+    "fields": [
+      "weight"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://chilkey.com/products/nd-tkl",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:44",
+        "outcome": "Internal Error; moved on."
+      },
+      {
+        "url": "https://www.chilkey.com/products/nd-tkl-keyboard",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:49",
+        "outcome": "Internal Error."
+      },
+      {
+        "url": "https://xrosshair.jp/chilkey-nd-tkl-keyboard/",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:31",
+        "outcome": "Redirect https://xrosshair.jp/reviews/70,188lines; literal1.91 find failed but full text recheck15:16:49 exposes Japanese measuredapprox1.91kg."
+      }
+    ],
+    "nextAction": "Reopen https://chilkey.com/products/nd-tkl; verify the exact configuration and missing measurement in the manufacturer manual; retain the logged access/condition conflicts."
+  },
+  {
+    "modelId": "melgeek-mojo60",
+    "fields": [
+      "height",
+      "weight"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://www.melgeek.com/products/melgeek-mojo60-aluminum-case-60-diy-keyboard-kit",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:44",
+        "outcome": "Manufacturer page360lines; height/Size find missed text, later Mojo60 find exposed explicit case specs."
+      }
+    ],
+    "nextAction": "Reopen https://www.melgeek.com/products/melgeek-mojo60-aluminum-case-60-diy-keyboard-kit; verify the exact configuration and missing measurement in the manufacturer manual; retain the logged access/condition conflicts."
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro-tenkeyless",
+    "fields": [
+      "weight"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://mysupport.razer.com/app/answers/detail/a_id/13672/kw/Chroma%20Configurator",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:56",
+        "outcome": "Weight find exposed925line exact RZ03-0498 page,719.5/933g and no/with wrist rest."
+      },
+      {
+        "url": "https://mysupport.razer.com/app/answers/detail/a_id/13672",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:31",
+        "outcome": "Redirect pre_page_check,zero lines."
+      }
+    ],
+    "nextAction": "Reopen https://mysupport.razer.com/app/answers/detail/a_id/13672/kw/Chroma%20Configurator; verify the exact configuration and missing measurement in the manufacturer manual; retain the logged access/condition conflicts."
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro-8khz",
+    "fields": [
+      "weight"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://mysupport.razer.com/app/answers/detail/a_id/19796/~/razer-huntsman-v3-pro-8-khz-%7C-rz03-0553-support-%26-faqs",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:56",
+        "outcome": "Redirected to pre_page_check; zero lines. Search extraction earlier exposed1168g."
+      },
+      {
+        "url": "https://mysupport.razer.com/app/answers/detail/a_id/19796",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:31",
+        "outcome": "Redirect pre_page_check,zero lines."
+      }
+    ],
+    "nextAction": "Reopen https://mysupport.razer.com/app/answers/detail/a_id/19796/~/razer-huntsman-v3-pro-8-khz-%7C-rz03-0553-support-%26-faqs; verify the exact configuration and missing measurement in the manufacturer manual; retain the logged access/condition conflicts."
+  },
+  {
+    "modelId": "steelseries-apex-2013",
+    "fields": [
+      "weight"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://www.legitreviews.com/steelseries-apex-gaming-keyboard-review_145698",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:13",
+        "outcome": "Internal Error,400 Timeout fetching."
+      },
+      {
+        "url": "https://www.digitalcitizen.life/reviewing-steelseries-apex-or-how-fail-building-keyboard/",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:21",
+        "outcome": "367lines;1330g stated, find repeated15:16:31."
+      }
+    ],
+    "nextAction": "Reopen https://www.legitreviews.com/steelseries-apex-gaming-keyboard-review_145698; verify the exact configuration and missing measurement in the manufacturer manual; retain the logged access/condition conflicts."
+  },
+  {
+    "modelId": "steelseries-apex-raw",
+    "fields": [
+      "weight"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://www.kitguru.net/peripherals/roald/steelseries-apex-raw-gaming-keyboard-review/all/1/",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:13",
+        "outcome": "205lines;1.2kg stated."
+      },
+      {
+        "url": "https://manuals.plus/m/f3fa0bd7b1712f7ce38c17ee4789762ae8e22d0ff2789b1355f7dcbf09c6e857.pdf",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:21",
+        "outcome": "Internal Error; discovery text1230g not authenticated."
+      },
+      {
+        "url": "https://www.tweaktown.com/reviews/5284/steelseries-apex-raw-gaming-keyboard-review/index.html",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:16:43",
+        "outcome": "364lines; weight find15:16:49 has no match."
+      }
+    ],
+    "nextAction": "Reopen https://www.kitguru.net/peripherals/roald/steelseries-apex-raw-gaming-keyboard-review/all/1/; verify the exact configuration and missing measurement in the manufacturer manual; retain the logged access/condition conflicts."
+  },
+  {
+    "modelId": "keychron-q3-pro",
+    "fields": [
+      "height",
+      "width",
+      "depth",
+      "weight"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; exact variant/measurement conditions require review",
+    "attempts": [
+      {
+        "url": "https://www.keychron.com/products/keychron-q3-pro-qmk-via-wireless-custom-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:56",
+        "outcome": "1730lines; Front Height find15:16:07 exposed SE/standard table."
+      }
+    ],
+    "nextAction": "Reopen https://www.keychron.com/products/keychron-q3-pro-qmk-via-wireless-custom-mechanical-keyboard; resolve standard versus SE identity, then obtain assembled height with keycaps."
+  },
+  {
+    "modelId": "keychron-dayz-special-edition",
+    "fields": [
+      "weight",
+      "keys",
+      "ansi"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved in uncommitted reviewed batch; manufacturer ANSI fully assembled specification",
+    "attempts": [
+      {
+        "url": "https://www.keychron.com/products/dayz-special-edition-wireless-magnetic-switch-custom-keyboard",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:49",
+        "outcome": "1903lines; Weight find15:15:56 exposed exact fully assembled1639±50g and ANSI identity."
+      }
+    ],
+    "nextAction": "Present the before/after table for owner sign-off before committing; preserve source tolerance."
+  },
+  {
+    "modelId": "keychron-dayz-special-edition",
+    "fields": [
+      "height"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; source publishes case front/rear heights excluding keycaps and feet",
+    "attempts": [
+      {
+        "url": "https://www.keychron.com/products/dayz-special-edition-wireless-magnetic-switch-custom-keyboard",
+        "checked": "2026-10-19",
+        "clockCheckpointUTC": "15:15:49",
+        "outcome": "1903lines; Weight find15:15:56 exposed exact fully assembled1639±50g and ANSI identity."
+      }
+    ],
+    "nextAction": "Open the DayZ user guide linked on the manufacturer product page and look for maximum assembled height; do not substitute a case height."
+  },
+  {
+    "modelId": "keychron-q1-he",
+    "fields": [
+      "keys"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; key-count search had no match in the extracted product representation",
+    "attempts": [
+      {
+        "url": "https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Opened exact manufacturer page; Number of Keys find returned no match. This does not prove the value is absent from the full site."
+      }
+    ],
+    "nextAction": "Open the exact ANSI model user manual linked from https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard and check the layout key count."
+  },
+  {
+    "modelId": "keychron-k2-he-standard",
+    "fields": [
+      "keys"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; key-count search had no match in the extracted product representation",
+    "attempts": [
+      {
+        "url": "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Opened exact manufacturer page; Number of Keys find returned no match. This does not prove the value is absent from the full site."
+      }
+    ],
+    "nextAction": "Open the exact ANSI model user manual linked from https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard and check the layout key count."
+  },
+  {
+    "modelId": "air75-v2",
+    "fields": [
+      "keys",
+      "ansi"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved; exact manufacturer Air75 V2 technical specification states 84 keys and ANSI75%",
+    "attempts": [
+      {
+        "url": "https://nuphy.com/products/air75-v2",
+        "checked": "2026-10-19",
+        "outcome": "Web reader reported 403 Forbidden; no value inferred from access failure."
+      },
+      {
+        "url": "https://pay.nuphy.com/products/air75-v2?country=US&currency=USD&variant=40635217805421",
+        "checked": "2026-10-19",
+        "outcome": "Manufacturer-operated product page opened; tech specification explicitly lists ANSI75% and84 keys."
+      }
+    ],
+    "nextAction": "Include both exact-source values in the owner review table before committing."
+  },
+  {
+    "modelId": "akko-3061s-he",
+    "fields": [
+      "keys"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; manufacturer extract does not establish the exact key count",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/3061s-he-shine-through-magnetic-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Opened exact manufacturer product page; Number and Technical finds yielded no key-count match. Model digits were not treated as a count."
+      },
+      {
+        "url": "https://file.akkogear.com/2025_Akko_Catalog.pdf",
+        "checked": "2026-10-19",
+        "outcome": "Web reader rejected 24,654,497-byte PDF as too large; multi-product search excerpt is not sufficient to identify the exact column."
+      }
+    ],
+    "nextAction": "Open https://file.akkogear.com/2025_Akko_Catalog.pdf in a PDF viewer and inspect the exact3061S-HE column, not an adjacent product."
+  },
+  {
+    "modelId": "akko-3068",
+    "fields": [
+      "keys"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "unresolved; manufacturer extract does not establish the exact key count",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/silent-3068-bt-3-0-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Opened exact manufacturer product page; Number and 68 keys searches had no match. Model name was not used to infer a count."
+      }
+    ],
+    "nextAction": "Open the manufacturer manual from https://en.akkogear.com/download/ for the original3068 BT3.0, not3068v2 or3068B, and find the stated key count."
+  },
+  {
+    "modelId": "huntsman-mini",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Product/title/linear optical/wired detachable TypeC extracted; no current seller amount extracted. Official-page candidate only. Does not establish61 keys/ANSI/lowProfile.",
+    "nextAction": "Inspect US clicky SKU storefront with rendered selector; use dated launchMSRP below only with explicit historical label.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/gaming-keyboards/razer-huntsman-mini/RZ03-03393200-R3U1",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Product/title/linear optical/wired detachable TypeC extracted; no current seller amount extracted. Official-page candidate only. Does not establish61 keys/ANSI/lowProfile."
+      }
+    ]
+  },
+  {
+    "modelId": "huntsman-mini",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Source published2020-07-14. Grade1 manufacturerMSRP: clicky119.99USD (launch2020-07-14), linear129.99USD (launchAugust2020). Seller Manufacturer under owner policy; checked2026-10-19; availability historical announced, current availability unverified. Black/MercuryWhite announced; not modelMiniAnalog. releaseYear2020 candidate.",
+    "nextAction": "Record source publication/launch context in quote note, never call MSRP current discounted sellingprice.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/dominate-on-a-different-scale-razer-unveils-the-razer-huntsman-mini",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Source published2020-07-14. Grade1 manufacturerMSRP: clicky119.99USD (launch2020-07-14), linear129.99USD (launchAugust2020). Seller Manufacturer under owner policy; checked2026-10-19; availability historical announced, current availability unverified. Black/MercuryWhite announced; not modelMiniAnalog. releaseYear2020 candidate."
+      }
+    ]
+  },
+  {
+    "modelId": "pro-x-tkl",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Grade1 candidate189.99USD sellingprice, reference219.99USD (not expresslyMSRP), sellerLogitechG, US market, checked2026-10-19. PROXTKL wireless mechanical, Black, page offersTactile/Linear, selectedstyle not explicitly marked in text. Explicit in stock readytoship. LIGHTSPEED wireless confirmed.",
+    "nextAction": "Retain URL SKU and Black, style unverified; inspect rendered selector before claiming tactile/linear exactvariant. Never use PROXTKLRAPID.",
+    "attempts": [
+      {
+        "url": "https://www.logitechg.com/en-us/shop/p/pro-x-tkl-wireless-keyboard.920-012127?searchclick=gaming&sp=1",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Grade1 candidate189.99USD sellingprice, reference219.99USD (not expresslyMSRP), sellerLogitechG, US market, checked2026-10-19. PROXTKL wireless mechanical, Black, page offersTactile/Linear, selectedstyle not explicitly marked in text. Explicit in stock readytoship. LIGHTSPEED wireless confirmed."
+      }
+    ]
+  },
+  {
+    "modelId": "rog-azoth",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Landing now249.99USD; search snippet221.99 differs and is rejected.",
+    "nextAction": "Follow estore exactconfiguration; hold quote pending selector.",
+    "attempts": [
+      {
+        "url": "https://rog.asus.com/us/keyboards/keyboards/aura-rgb/rog-azoth-model/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Landing now249.99USD; search snippet221.99 differs and is rejected."
+      }
+    ]
+  },
+  {
+    "modelId": "rog-azoth",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Starting162.99USD regular249.99USD; configurablepart22414-CNF-US, genericM701ROGAZOTH. Addtocart shown; shipmostwithin24h is generic policy, not explicitstock. Config not exposed coherently; specs includeMoonlightWhite and multiple repeatedblocks. HOLD amounts, not a concrete configured quote.",
+    "nextAction": "Select exact switch/color/SKU then record price/stock; no combining landing249.99 and lower-config specs.",
+    "attempts": [
+      {
+        "url": "https://eshop.asus.com/us/rog/rog-azoth.html",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Starting162.99USD regular249.99USD; configurablepart22414-CNF-US, genericM701ROGAZOTH. Addtocart shown; shipmostwithin24h is generic policy, not explicitstock. Config not exposed coherently; specs includeMoonlightWhite and multiple repeatedblocks. HOLD amounts, not a concrete configured quote."
+      }
+    ]
+  },
+  {
+    "modelId": "rog-azoth",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Bluetooth5.1/RF2.4GHz/USB explicitlylisted; alreadyknownbooleans can gain evidence. No keycount/profile/ANSI/ISO confirmed.",
+    "nextAction": "ExactSKU manual for keycount and physical layout.",
+    "attempts": [
+      {
+        "url": "https://rog.asus.com/keyboards/keyboards/compact/rog-azoth-model/spec/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Bluetooth5.1/RF2.4GHz/USB explicitlylisted; alreadyknownbooleans can gain evidence. No keycount/profile/ANSI/ISO confirmed."
+      }
+    ]
+  },
+  {
+    "modelId": "air75-v2",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Reader403; use manufacturer alternate below.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://nuphy.com/products/air75-v2",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Reader403; use manufacturer alternate below."
+      }
+    ]
+  },
+  {
+    "modelId": "air75-v2",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Extracted specs, no dollaramount found. Next render exactconfiguration storefront; prior84keyANSI evidence remains separate.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://pay.nuphy.com/products/air75-v2?country=US&currency=USD&variant=40635217805421",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Extracted specs, no dollaramount found. Next render exactconfiguration storefront; prior84keyANSI evidence remains separate."
+      }
+    ]
+  },
+  {
+    "modelId": "nuphy-air75",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Reader internalerror; next archived official Air75V1 manual, never Air75V2.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://nuphy.com/products/air75",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Reader internalerror; next archived official Air75V1 manual, never Air75V2."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-b98",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Reader404. Currentcollection shows B98PRO, not evidence for originalB98. Next officialmanual originalB98.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/products/yunzii-b98-wireless-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Reader404. Currentcollection shows B98PRO, not evidence for originalB98. Next officialmanual originalB98."
+      }
+    ]
+  },
+  {
+    "modelId": "chilkey-nd-tkl",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Tool saysnotaccessible, statusunknown. Next manufacturer ND-TKL manual/storeexactwiredvariant.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.chilkey.com/products/nd-tkl-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Tool saysnotaccessible, statusunknown. Next manufacturer ND-TKL manual/storeexactwiredvariant."
+      }
+    ]
+  },
+  {
+    "modelId": "k70-pro-mini",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Product extracted no price. Explicit61keys for NAWhiteCherryMXBlueSKU; existing UKsource mismatch means hold singlekeycount until scope clarified. Bluetooth4.2/SLIPSTREAM confirms existingconnectivity. ManufacturerProductFamilyK70 explicit. Next exactUKSKU specs and USstore sellingprice.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.corsair.com/us/en/p/keyboards/ch-9189111-na/k70-pro-mini-wireless-60-mechanical-cherry-mx-blue-switch-white-pbt-keycaps-ch-9189111-na",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Product extracted no price. Explicit61keys for NAWhiteCherryMXBlueSKU; existing UKsource mismatch means hold singlekeycount until scope clarified. Bluetooth4.2/SLIPSTREAM confirms existingconnectivity. ManufacturerProductFamilyK70 explicit. Next exactUKSKU specs and USstore sellingprice."
+      }
+    ]
+  },
+  {
+    "modelId": "5075b-plus-iso",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — EUR118.99 soldout, ISO-DEprebuilt +UK/Nordicextra caps, V3CreamYellowPro selector; noUSD. iso=true candidate; BT5/2.4G alreadyknown; Cherrykeycapprofile does not determine lowProfile. Next exactUSstore originalvariant.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/black-on-white-5075b-plus-iso-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — EUR118.99 soldout, ISO-DEprebuilt +UK/Nordicextra caps, V3CreamYellowPro selector; noUSD. iso=true candidate; BT5/2.4G alreadyknown; Cherrykeycapprofile does not determine lowProfile. Next exactUSstore originalvariant."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-3087s",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Extracted USBTypeC and no battery, CherryMXBlue; no explicitkeycount; noBluetoothtext. Next linkedmanual for explicitradioabsence/keycount, never parse3087.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/3087s-shine-through-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Extracted USBTypeC and no battery, CherryMXBlue; no explicitkeycount; noBluetoothtext. Next linkedmanual for explicitradioabsence/keycount, never parse3087."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5075-v3",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — US-ANSI and BT5/2.4GHz/USBTypeC explicit; candidates ansi=true,bluetooth=true,wireless=true. NoUSD curated. Next regionalexactstore/manualkeycount.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5075-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — US-ANSI and BT5/2.4GHz/USBTypeC explicit; candidates ansi=true,bluetooth=true,wireless=true. NoUSD curated. Next regionalexactstore/manualkeycount."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5075b-plus-via-iso",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — EUR118.99; model5075BPlusISOVIA, BT5/2.4G/USB explicit. candidatesbluetooth=true,wireless=true,iso=true. NextUSstore exactVIAISO.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5075b-plus-via-iso-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — EUR118.99; model5075BPlusISOVIA, BT5/2.4G/USB explicit. candidatesbluetooth=true,wireless=true,iso=true. NextUSstore exactVIAISO."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5075s-iso",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Wired and batteryN/A explicit; ISO-DE/UK/Nordic layouts. iso=truecandidate; bluetooth=false only after wired-onlymanual scope. Nextlinkedmanual.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/black-gold-5075s-iso-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Wired and batteryN/A explicit; ISO-DE/UK/Nordic layouts. iso=truecandidate; bluetooth=false only after wired-onlymanual scope. Nextlinkedmanual."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5087-v3",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — US-ANSI; BT5/2.4G/USB explicit. candidatesansi=true,bluetooth=true,wireless=true. Next exactUSstore.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5087-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — US-ANSI; BT5/2.4G/USB explicit. candidatesansi=true,bluetooth=true,wireless=true. Next exactUSstore."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5087b",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Pageextracted, Bluetoothfindnomatch; no metadatafill. Nextlinkedmanual, donotborrow5087BPlus.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/world-tour-london-5087b-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Pageextracted, Bluetoothfindnomatch; no metadatafill. Nextlinkedmanual, donotborrow5087BPlus."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5087b-plus-iso",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Specs BT5/2.4G/USB explicit, ISOlayoutdiagramlabels. candidatesbluetooth=true,wireless=true,iso=true. Copyabove wrongly says5075BPlus; rely exactmodelSpecssection. NextUSstoreexactHorizonISO.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/horizon-5087b-plus-iso-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Specs BT5/2.4G/USB explicit, ISOlayoutdiagramlabels. candidatesbluetooth=true,wireless=true,iso=true. Copyabove wrongly says5075BPlus; rely exactmodelSpecssection. NextUSstoreexactHorizonISO."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5108-v5-iso",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — BT5/2.4G/USB confirmed, ISOlayout. iso=truecandidate. 440.5x130x30.1mm explicitlyEXCLUDESkeycapheight; donotrecord30.1totalheight. No keycount found. Nextmanual exactlayoutkeycount.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5108-v5-iso-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — BT5/2.4G/USB confirmed, ISOlayout. iso=truecandidate. 440.5x130x30.1mm explicitlyEXCLUDESkeycapheight; donotrecord30.1totalheight. No keycount found. Nextmanual exactlayoutkeycount."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5108b-plus-iso",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — BT5/2.4G/USB explicit, ISO-DEbase withNordic/UKcapkits. candidatesbluetooth=true,wireless=true,iso=true. Nextexactstore SKU/layout.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/black-gold-5108b-plus-iso-nordic-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — BT5/2.4G/USB explicit, ISO-DEbase withNordic/UKcapkits. candidatesbluetooth=true,wireless=true,iso=true. Nextexactstore SKU/layout."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-mod-007-he",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — US-ANSI selector but pagehasV1/V2 andISOcolumns. ansi=truecandidate only currentrecord explicitUSvariant. No keycountconfirmed. NextmanualmatchingV1/V2.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/mod-007-he-year-of-dragon-us-ansi-hall-effect-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — US-ANSI selector but pagehasV1/V2 andISOcolumns. ansi=truecandidate only currentrecord explicitUSvariant. No keycountconfirmed. NextmanualmatchingV1/V2."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-mod-007-v5-he",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Separatewired andwireless columns; bothUS-ANSI, oneUSBonly versus BT5/2.4G/USB. ansi=truecandidate; HOLDbluetooth becausecurrentrecordwirelessfalse. Nextidentifyexactwiredvariant.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/mod-007b-v5-he-magnetic-switch-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Separatewired andwireless columns; bothUS-ANSI, oneUSBonly versus BT5/2.4G/USB. ansi=truecandidate; HOLDbluetooth becausecurrentrecordwirelessfalse. Nextidentifyexactwiredvariant."
+      }
+    ]
+  },
+  {
+    "modelId": "gmmk2-96",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Explicit99ANSI/100ISO; holdscalarcount, bothlayoutavailability candidatesifbooleanmeansavailableoption. USB-C2.0. NextSKUscope andUSstore.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.gloriousgaming.com/en-uk/pages/guide-gmmk2-96",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Explicit99ANSI/100ISO; holdscalarcount, bothlayoutavailability candidatesifbooleanmeansavailableoption. USB-C2.0. NextSKUscope andUSstore."
+      }
+    ]
+  },
+  {
+    "modelId": "gmmk1-full",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Guideextracted; Connectionfindnomatch. Nextmanualinterface andUSexactassembledSKUprice.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.gloriousgaming.com/pages/guide-gmmk1-fullsize",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Guideextracted; Connectionfindnomatch. Nextmanualinterface andUSexactassembledSKUprice."
+      }
+    ]
+  },
+  {
+    "modelId": "alienware-aw920k",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Redirectedgenericaccessories; no validproductquote. NextDellUSexactAW920K SKUmanual/store.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.dell.com/en-sg/shop/alienware-tri-mode-wireless-gaming-keyboard-aw920k/apd/580-bbgd/pc-accessories",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Redirectedgenericaccessories; no validproductquote. NextDellUSexactAW920K SKUmanual/store."
+      }
+    ]
+  },
+  {
+    "modelId": "asus-rog-strix-scope-ii-96-wireless",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Specpageextracted, no curatedUSDprice. NextUSestore exactswitch/color.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://rog.asus.com/keyboards/keyboards/compact/rog-strix-scope-ii-96-wireless/spec/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Specpageextracted, no curatedUSDprice. NextUSestore exactswitch/color."
+      }
+    ]
+  },
+  {
+    "modelId": "asus-rog-strix-scope-tkl-deluxe",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Specpageextracted, no curatedUSDprice. NextUSestore exactDeluxeSKU.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-strix-scope-tkl-deluxe-model/spec/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Specpageextracted, no curatedUSDprice. NextUSestore exactDeluxeSKU."
+      }
+    ]
+  },
+  {
+    "modelId": "cherry-kc-200-mx",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Numberofkeys104+4 (108arithmetic, note sourceexpression); genericrecordlayoutunknown. Noquote. NextexactregionalSKU datasheet beforecountadoption. Slimdimensions doesnotmean lowprofileswitches.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.cherry.de/en-us/product/kc-200-mx",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Numberofkeys104+4 (108arithmetic, note sourceexpression); genericrecordlayoutunknown. Noquote. NextexactregionalSKU datasheet beforecountadoption. Slimdimensions doesnotmean lowprofileswitches."
+      }
+    ]
+  },
+  {
+    "modelId": "corsair-k65-plus-wireless",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — ANSIandISO variants explicitlydiscussed; don'tchooseonekeycount. NextexactUSstore SKU.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.corsair.com/us/en/explorer/gamer/keyboards/corsair-k65-plus-wireless-everything-you-need-to-know/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — ANSIandISO variants explicitlydiscussed; don'tchooseonekeycount. NextexactUSstore SKU."
+      }
+    ]
+  },
+  {
+    "modelId": "ducky-one-3-full-size",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Productextracted, no configuredUSDquotecurated. NextexactUSretailerfullsizeMatchaSKU.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://ducky.global/products/one-3-matcha",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Productextracted, no configuredUSDquotecurated. NextexactUSretailerfullsizeMatchaSKU."
+      }
+    ]
+  },
+  {
+    "modelId": "ducky-one-3-tkl",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Productextracted, no configuredUSDquotecurated. NextexactUSretailerTKLGossamerPinkSKU.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://ducky.global/products/one-3-gossamer-pink",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Productextracted, no configuredUSDquotecurated. NextexactUSretailerTKLGossamerPinkSKU."
+      }
+    ]
+  },
+  {
+    "modelId": "endgame-gear-kb65he-iso-uk",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Readerinternalerror, noHTTPstatus. NextmanufacturerUKmanualISO, USpriceonlyifexactISO-UK offered.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.endgamegear.co.uk/en-gb/keyboards/kb65he",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Readerinternalerror, noHTTPstatus. NextmanufacturerUKmanualISO, USpriceonlyifexactISO-UK offered."
+      }
+    ]
+  },
+  {
+    "modelId": "fnatic-streak65-lp",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Specpageextracted, key/connectionfindnomatch. NextmanufacturerPDFmanual +USstore.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://help.fnatic.com/support/solutions/articles/77000511484-streak65-lp-tech-specifications",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Specpageextracted, key/connectionfindnomatch. NextmanufacturerPDFmanual +USstore."
+      }
+    ]
+  },
+  {
+    "modelId": "hhkb-professional-hybrid-type-s",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — SnowPD-KB800YSC/YNS explicitmodifiedUS-ANSI60keys. CandidateonlyifcurrentrecordSnow/exactlayoutscope; nextrecordidentitycheck andUSstore, noFrenchEURconversion.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.hhkeyboard.com/fr/products/hhkb-hybrid-pro-type-s-snow",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — SnowPD-KB800YSC/YNS explicitmodifiedUS-ANSI60keys. CandidateonlyifcurrentrecordSnow/exactlayoutscope; nextrecordidentitycheck andUSstore, noFrenchEURconversion."
+      }
+    ]
+  },
+  {
+    "modelId": "hyperx-alloy-origins-core-pbt",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — ExtractedtitleAlloyOriginsPBTgeneric, do notassumeCorevariant. NextexactUSCorePBT SKU.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://uk.hyperx.com/products/hyperx-alloy-origins-core-pbt-mechanical-gaming-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — ExtractedtitleAlloyOriginsPBTgeneric, do notassumeCorevariant. NextexactUSCorePBT SKU."
+      }
+    ]
+  },
+  {
+    "modelId": "mountain-everest-60",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Redirectsamepathwithoutslash; explicit64keyUS-ANSI. candidateskeys64,ansi=true fordocumentedUSvariant; no numpadincluded. NextfollowmanufacturerBuyNow exactUSconfig.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://mountain.gg/keyboards/everest-60/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Redirectsamepathwithoutslash; explicit64keyUS-ANSI. candidateskeys64,ansi=true fordocumentedUSvariant; no numpadincluded. NextfollowmanufacturerBuyNow exactUSconfig."
+      }
+    ]
+  },
+  {
+    "modelId": "mountain-everest-core",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — StandardANSI/ISO options explicit; candidateavailabilitybooleansonlyifdomainpermits. NextstoreexactCore notbarebone.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://mountain.gg/everest-core/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — StandardANSI/ISO options explicit; candidateavailabilitybooleansonlyifdomainpermits. NextstoreexactCore notbarebone."
+      }
+    ]
+  },
+  {
+    "modelId": "mountain-everest-max-complete-assembly",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — ANSI/ISOoptions; completeassembly matters. NextUSstore exactMaxkitwithnumpad/media, noCoreweightborrow.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://mountain.gg/keyboards/everest-max/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — ANSI/ISOoptions; completeassembly matters. NextUSstore exactMaxkitwithnumpad/media, noCoreweightborrow."
+      }
+    ]
+  },
+  {
+    "modelId": "msi-vigor-gk20",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — 104/105/108keys bylanguages, USB2; holdcount, noquote. NextregionalSKU datasheet.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://us.msi.com/Gaming-Gear/VIGOR-GK20/Specification",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — 104/105/108keys bylanguages, USB2; holdcount, noquote. NextregionalSKU datasheet."
+      }
+    ]
+  },
+  {
+    "modelId": "msi-vigor-gk50-low-profile",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — 104/105/109keys bylanguages, USB2; holdcount. NextexactUSSKUmanual/store.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://au.msi.com/Gaming-Gear/VIGOR-GK50-LOW-PROFILE/Specification",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — 104/105/109keys bylanguages, USB2; holdcount. NextexactUSSKUmanual/store."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro-tkl-8khz",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Redirectedpre_page_check, zeroextractedlines. NextofficialmanualRZ03-0552.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://mysupport.razer.com/app/answers/detail/a_id/19797/~/razer-huntsman-v3-pro-tenkeyless-8khz-%7C-rz03-0552-support-%26-faqs",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Redirectedpre_page_check, zeroextractedlines. NextofficialmanualRZ03-0552."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-deathstalker-v2-pro-tenkeyless",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Officialtitleexplicitultraslim; no exactsellingpricecurated. lowProfilecandidate needs inspect switchdescriptionratherthanchassisalone. NextexactUSSKUstore.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/gaming-keyboards/razer-deathstalker-v2-pro-tenkeyless",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Officialtitleexplicitultraslim; no exactsellingpricecurated. lowProfilecandidate needs inspect switchdescriptionratherthanchassisalone. NextexactUSSKUstore."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-joro",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — LATAMpageextracted, noUSDtext. NextUSsameSKUstore; nevertranslatecurrencyasUSD.",
+    "nextAction": "Inspect the exact model and regional SKU at its manufacturer US store; retain null if no USD quote is supported.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/latam-es/gaming-keyboards/razer-joro/RZ03-02360200-R3U1",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — LATAMpageextracted, noUSDtext. NextUSsameSKUstore; nevertranslatecurrencyasUSD."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5087b-v3",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer EU product page extracted; no exact USD quote curated. Check US storefront for Bun Wonderland 5087B v3.",
+    "nextAction": "Manufacturer EU product page extracted; no exact USD quote curated. Check US storefront for Bun Wonderland 5087B v3.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/bun-wonderland-5087b-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer EU product page extracted; no exact USD quote curated. Check US storefront for Bun Wonderland 5087B v3."
+      }
+    ]
+  },
+  {
+    "modelId": "cooler-master-ck720",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer legacy product page extracted without seller amount. Follow official US sales channel for exact CK720 layout/SKU.",
+    "nextAction": "Manufacturer legacy product page extracted without seller amount. Follow official US sales channel for exact CK720 layout/SKU.",
+    "attempts": [
+      {
+        "url": "https://legacy.coolermaster.com/en-gb/products/ck720/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer legacy product page extracted without seller amount. Follow official US sales channel for exact CK720 layout/SKU."
+      }
+    ]
+  },
+  {
+    "modelId": "drop-cstm80",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer support inventory lists CSTM80 guide but no selling price. Open exact assembled CSTM80 store configuration, not decorative case.",
+    "nextAction": "Manufacturer support inventory lists CSTM80 guide but no selling price. Open exact assembled CSTM80 store configuration, not decorative case.",
+    "attempts": [
+      {
+        "url": "https://helpdesk.drop.com/hc/en-us/categories/44214068525073-Technical-Support",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer support inventory lists CSTM80 guide but no selling price. Open exact assembled CSTM80 store configuration, not decorative case."
+      }
+    ]
+  },
+  {
+    "modelId": "leopold-fc750r-pd",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer Korean store lists KRW, not USD. Follow Global Seller link and verify exact FC750R PD layout/switch; do not convert.",
+    "nextAction": "Manufacturer Korean store lists KRW, not USD. Follow Global Seller link and verify exact FC750R PD layout/switch; do not convert.",
+    "attempts": [
+      {
+        "url": "https://m.leopold.co.kr/product/fc750r-pd-%EA%B7%B8%EB%A0%88%EC%9D%B4-%EB%B8%94%EB%A3%A8/179/",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer Korean store lists KRW, not USD. Follow Global Seller link and verify exact FC750R PD layout/switch; do not convert."
+      }
+    ]
+  },
+  {
+    "modelId": "logitech-g-g413-se",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer June 2024 price list states G413 SE full-size US tactile SKU MSRP; not a current seller offer. Check current US SKU 920-010433.",
+    "nextAction": "Manufacturer June 2024 price list states G413 SE full-size US tactile SKU MSRP; not a current seller offer. Check current US SKU 920-010433.",
+    "attempts": [
+      {
+        "url": "https://info.logitech.com/rs/201-WGH-889/images/Logitech_B2B_US_MSRP_Price_List.pdf",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer June 2024 price list states G413 SE full-size US tactile SKU MSRP; not a current seller offer. Check current US SKU 920-010433."
+      }
+    ]
+  },
+  {
+    "modelId": "logitech-g-g915-tkl-lightspeed",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer June 2024 price list states US G915 TKL clicky SKU MSRP; not a current seller offer. Check current US SKU 920-009529.",
+    "nextAction": "Manufacturer June 2024 price list states US G915 TKL clicky SKU MSRP; not a current seller offer. Check current US SKU 920-009529.",
+    "attempts": [
+      {
+        "url": "https://info.logitech.com/rs/201-WGH-889/images/Logitech_B2B_US_MSRP_Price_List.pdf",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer June 2024 price list states US G915 TKL clicky SKU MSRP; not a current seller offer. Check current US SKU 920-009529."
+      }
+    ]
+  },
+  {
+    "modelId": "logitech-g-g915-x",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer launch announcement explicitly states US MSRP; historical, not current seller offer. Check current US wired full-size SKU.",
+    "nextAction": "Manufacturer launch announcement explicitly states US MSRP; historical, not current seller offer. Check current US wired full-size SKU.",
+    "attempts": [
+      {
+        "url": "https://ir.logitech.com/news/news-details/2024/Logitech-G-Introduces-the-G915-X-Series---The-Most-Advanced-Low-Profile-Gaming-Keyboard-Ever-Built/default.aspx",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer launch announcement explicitly states US MSRP; historical, not current seller offer. Check current US wired full-size SKU."
+      }
+    ]
+  },
+  {
+    "modelId": "logitech-g-g915-x-lightspeed",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer launch announcement explicitly states full-size LIGHTSPEED US MSRP, distinct from TKL. Check current US full-size SKU.",
+    "nextAction": "Manufacturer launch announcement explicitly states full-size LIGHTSPEED US MSRP, distinct from TKL. Check current US full-size SKU.",
+    "attempts": [
+      {
+        "url": "https://ir.logitech.com/news/news-details/2024/Logitech-G-Introduces-the-G915-X-Series---The-Most-Advanced-Low-Profile-Gaming-Keyboard-Ever-Built/default.aspx",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer launch announcement explicitly states full-size LIGHTSPEED US MSRP, distinct from TKL. Check current US full-size SKU."
+      }
+    ]
+  },
+  {
+    "modelId": "msi-vigor-gk50-low-profile-tkl",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer overview extracted; no exact USD selling quote curated. Follow official US retailer channel for this TKL generation.",
+    "nextAction": "Manufacturer overview extracted; no exact USD selling quote curated. Follow official US retailer channel for this TKL generation.",
+    "attempts": [
+      {
+        "url": "https://www.msi.com/Gaming-Gear/VIGOR-GK50-LOW-PROFILE-TKL/Overview",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer overview extracted; no exact USD selling quote curated. Follow official US retailer channel for this TKL generation."
+      }
+    ]
+  },
+  {
+    "modelId": "nzxt-function-minitkl",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer FAQ distinguishes original Function MiniTKL from successors. No original-model USD quote established; inspect original generation US store, never Function 2/Elite.",
+    "nextAction": "Manufacturer FAQ distinguishes original Function MiniTKL from successors. No original-model USD quote established; inspect original generation US store, never Function 2/Elite.",
+    "attempts": [
+      {
+        "url": "https://support.nzxt.com/hc/fr/articles/4414693764891-FAQ-sur-le-clavier-fonctionnel-NZXT",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer FAQ distinguishes original Function MiniTKL from successors. No original-model USD quote established; inspect original generation US store, never Function 2/Elite."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-blackwidow-v4-x",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer US catalog inspected; no exact BlackWidow V4 X switch/configuration quote curated. Open the exact SKU product selector.",
+    "nextAction": "Manufacturer US catalog inspected; no exact BlackWidow V4 X switch/configuration quote curated. Open the exact SKU product selector.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/shop/keyboards/gaming-keyboards?query=%3Aprice-asc%3Acategory%3Akeyboards-keyboards%3Akeyboard-keyboard-size%3AFull+Size&sortCode=price-asc",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer US catalog inspected; no exact BlackWidow V4 X switch/configuration quote curated. Open the exact SKU product selector."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro-mini",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation.",
+    "nextAction": "Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/pc/gaming-keyboards/huntsman-line",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-ornata-v3",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer US catalog inspected; Ornata V3 X and TKL are distinct. No exact full-size V3 quote curated; open exact model SKU.",
+    "nextAction": "Manufacturer US catalog inspected; Ornata V3 X and TKL are distinct. No exact full-size V3 quote curated; open exact model SKU.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/shop/keyboards/gaming-keyboards?query=%3Aprice-asc%3Acategory%3Akeyboards-keyboards%3Akeyboard-keyboard-size%3AFull+Size&sortCode=price-asc",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer US catalog inspected; Ornata V3 X and TKL are distinct. No exact full-size V3 quote curated; open exact model SKU."
+      }
+    ]
+  },
+  {
+    "modelId": "matias-fk403q-p",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer manual includes FK403Q-P; no retail USD quote established. Inspect Matias US store exact Mac programmable Ergo Pro.",
+    "nextAction": "Manufacturer manual includes FK403Q-P; no retail USD quote established. Inspect Matias US store exact Mac programmable Ergo Pro.",
+    "attempts": [
+      {
+        "url": "https://matias.ca/manuals/FK403-P_manual.pdf",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer manual includes FK403Q-P; no retail USD quote established. Inspect Matias US store exact Mac programmable Ergo Pro."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation.",
+    "nextAction": "Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/pc/gaming-keyboards/huntsman-line",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro-tenkeyless",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation.",
+    "nextAction": "Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/pc/gaming-keyboards/huntsman-line",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro-8khz",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation.",
+    "nextAction": "Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/pc/gaming-keyboards/huntsman-line",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer Huntsman line page opened; no exact size/generation/SKU USD quote curated. Follow this exact model store option, not another size or generation."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-huntsman-v3-he-magnetic-tenkeyless-8khz",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer HE Magnetic line page opened; no exact size/SKU USD quote curated. Inspect Mini 65% versus Tenkeyless configuration explicitly, not Pro optical series.",
+    "nextAction": "Manufacturer HE Magnetic line page opened; no exact size/SKU USD quote curated. Inspect Mini 65% versus Tenkeyless configuration explicitly, not Pro optical series.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-he-magnetic-8khz",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer HE Magnetic line page opened; no exact size/SKU USD quote curated. Inspect Mini 65% versus Tenkeyless configuration explicitly, not Pro optical series."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-huntsman-v3-he-magnetic-mini-65-8khz",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer HE Magnetic line page opened; no exact size/SKU USD quote curated. Inspect Mini 65% versus Tenkeyless configuration explicitly, not Pro optical series.",
+    "nextAction": "Manufacturer HE Magnetic line page opened; no exact size/SKU USD quote curated. Inspect Mini 65% versus Tenkeyless configuration explicitly, not Pro optical series.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-he-magnetic-8khz",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer HE Magnetic line page opened; no exact size/SKU USD quote curated. Inspect Mini 65% versus Tenkeyless configuration explicitly, not Pro optical series."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-blackwidow-v4-75",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Exact US black fully assembled storefront states US$189.99. Source extract is a cached seller page; quote is dated, not live stock confirmation.",
+    "nextAction": "Exact US black fully assembled storefront states US$189.99. Source extract is a cached seller page; quote is dated, not live stock confirmation.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/gaming-keyboards/Razer-BlackWidow-V4-75/RZ03-05000200-R3U1",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Exact US black fully assembled storefront states US$189.99. Source extract is a cached seller page; quote is dated, not live stock confirmation."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-deathstalker-v2-pro",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer full-size model manual opened; no USD quote established. Open exact US full-size V2 Pro store SKU, not TKL.",
+    "nextAction": "Manufacturer full-size model manual opened; no USD quote established. Open exact US full-size V2 Pro store SKU, not TKL.",
+    "attempts": [
+      {
+        "url": "https://dl.razerzone.com/master-guides/RazerSynapse3/DEATHSTALKERV2PRO-00000658-en.pdf",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer full-size model manual opened; no USD quote established. Open exact US full-size V2 Pro store SKU, not TKL."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-apex-pro-tkl-2019",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-apex-m750",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-apex-m500",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-apex-m800",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-apex-m750-tkl",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-apex-150",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-apex-2013",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-apex-raw",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "steelseries-6gv2",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "nextAction": "Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price.",
+    "attempts": [
+      {
+        "url": "https://steelseries.com/gaming-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Source attempt — Manufacturer current keyboard inventory inspected; no exact legacy-generation USD quote established. Locate archived manufacturer MSRP or exact regional legacy seller SKU; never use current successor price."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5075-v3",
+    "fields": [
+      "bluetooth"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5075-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5075-v3",
+    "fields": [
+      "wireless24"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5075-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5075-v3",
+    "fields": [
+      "wireless"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5075-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5075-v3",
+    "fields": [
+      "ansi"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5075-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5087-v3",
+    "fields": [
+      "bluetooth"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5087-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5087-v3",
+    "fields": [
+      "wireless24"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5087-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5087-v3",
+    "fields": [
+      "wireless"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5087-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5087-v3",
+    "fields": [
+      "ansi"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5087-v3-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5108-v5-iso",
+    "fields": [
+      "iso"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5108-v5-iso-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5108-v5-iso",
+    "fields": [
+      "height"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Unresolved — published height explicitly excludes keycaps; cannot populate assembled height.",
+    "nextAction": "Open the linked manufacturer manual and find maximum assembled height including keycaps and feet conditions.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5108-v5-iso-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Unresolved — published height explicitly excludes keycaps; cannot populate assembled height."
+      }
+    ]
+  },
+  {
+    "modelId": "akko-5108-v5-iso",
+    "fields": [
+      "keys"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Unresolved — marketing mentions 108 keys, but exact ISO configuration count is not independently scoped.",
+    "nextAction": "Open the linked 5108 V5 ISO manual and count only an explicitly stated exact-layout specification.",
+    "attempts": [
+      {
+        "url": "https://akkogear.eu/products/5108-v5-iso-mechanical-keyboard",
+        "checked": "2026-10-19",
+        "outcome": "Unresolved — marketing mentions 108 keys, but exact ISO configuration count is not independently scoped."
+      }
+    ]
+  },
+  {
+    "modelId": "huntsman-mini",
+    "fields": [
+      "releaseYear"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/dominate-on-a-different-scale-razer-unveils-the-razer-huntsman-mini",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-deathstalker-v2-pro",
+    "fields": [
+      "lowProfile"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://dl.razerzone.com/master-guides/RazerSynapse3/DEATHSTALKERV2PRO-00000658-en.pdf",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "epomaker-galaxy100-lite",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://epomaker.com/collections/galaxy-series",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "epomaker-galaxy100-lite",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://epomaker.com/collections/galaxy-series",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "epomaker-galaxy100-qmk-via",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://epomaker.com/collections/galaxy-series",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "epomaker-galaxy100-qmk-via",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://epomaker.com/collections/galaxy-series",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "epomaker-galaxy70",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://epomaker.com/collections/galaxy-series",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "epomaker-galaxy70",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://epomaker.com/collections/galaxy-series",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al21",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al21",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al65",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al65",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al66",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al66",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al68",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al68",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al75",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al75",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al80",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al80",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al98",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al98",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al98-pro",
+    "fields": [
+      "family"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "yunzii-al98-pro",
+    "fields": [
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — manufacturer explicitly supports this exact-model field.",
+    "nextAction": "Recheck this manufacturer source for the same model and configuration before any future update.",
+    "attempts": [
+      {
+        "url": "https://www.yunzii.com/ko/collections/yunzii-al-series-1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — manufacturer explicitly supports this exact-model field."
+      }
+    ]
+  },
+  {
+    "modelId": "redragon-k617-se",
+    "fields": [
+      "family",
+      "familyId"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Unresolved — manufacturer names K617 Series but current collection does not establish exact SE membership.",
+    "nextAction": "Inspect the exact FIZZ K617 SE manufacturer manual/product cross-links before assigning K617 Series; do not infer membership from prefix.",
+    "attempts": [
+      {
+        "url": "https://redragonshop.com/collections/k617-series",
+        "checked": "2026-10-19",
+        "outcome": "Unresolved — manufacturer names K617 Series but current collection does not establish exact SE membership."
+      }
+    ]
+  },
+  {
+    "modelId": "pro-x-tkl",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context.",
+    "nextAction": "Recheck the exact manufacturer SKU. Historical MSRP must not be relabeled as a current seller offer.",
+    "attempts": [
+      {
+        "url": "https://www.logitechg.com/en-us/shop/p/pro-x-tkl-wireless-keyboard.920-012127?searchclick=gaming&sp=1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context."
+      },
+      {
+        "url": "https://info.logitech.com/rs/201-WGH-889/images/Logitech_B2B_US_MSRP_Price_List.pdf",
+        "checked": "2026-10-19",
+        "outcome": "Manufacturer price list maps SKU 920-012127 to black tactile PRO X TKL LIGHTSPEED; no copied dimensions."
+      }
+    ]
+  },
+  {
+    "modelId": "huntsman-mini",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context.",
+    "nextAction": "Recheck the exact manufacturer SKU. Historical MSRP must not be relabeled as a current seller offer.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/dominate-on-a-different-scale-razer-unveils-the-razer-huntsman-mini",
+        "checked": "2026-10-19",
+        "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context."
+      }
+    ]
+  },
+  {
+    "modelId": "huntsman-mini",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context.",
+    "nextAction": "Recheck the exact manufacturer SKU. Historical MSRP must not be relabeled as a current seller offer.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/dominate-on-a-different-scale-razer-unveils-the-razer-huntsman-mini",
+        "checked": "2026-10-19",
+        "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context."
+      }
+    ]
+  },
+  {
+    "modelId": "logitech-g-g413-se",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context.",
+    "nextAction": "Recheck the exact manufacturer SKU. Historical MSRP must not be relabeled as a current seller offer.",
+    "attempts": [
+      {
+        "url": "https://info.logitech.com/rs/201-WGH-889/images/Logitech_B2B_US_MSRP_Price_List.pdf",
+        "checked": "2026-10-19",
+        "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context."
+      }
+    ]
+  },
+  {
+    "modelId": "logitech-g-g915-tkl-lightspeed",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context.",
+    "nextAction": "Recheck the exact manufacturer SKU. Historical MSRP must not be relabeled as a current seller offer.",
+    "attempts": [
+      {
+        "url": "https://info.logitech.com/rs/201-WGH-889/images/Logitech_B2B_US_MSRP_Price_List.pdf",
+        "checked": "2026-10-19",
+        "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context."
+      }
+    ]
+  },
+  {
+    "modelId": "logitech-g-g915-x",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context.",
+    "nextAction": "Recheck the exact manufacturer SKU. Historical MSRP must not be relabeled as a current seller offer.",
+    "attempts": [
+      {
+        "url": "https://ir.logitech.com/news/news-details/2024/Logitech-G-Introduces-the-G915-X-Series---The-Most-Advanced-Low-Profile-Gaming-Keyboard-Ever-Built/default.aspx",
+        "checked": "2026-10-19",
+        "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context."
+      }
+    ]
+  },
+  {
+    "modelId": "logitech-g-g915-x-lightspeed",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context.",
+    "nextAction": "Recheck the exact manufacturer SKU. Historical MSRP must not be relabeled as a current seller offer.",
+    "attempts": [
+      {
+        "url": "https://ir.logitech.com/news/news-details/2024/Logitech-G-Introduces-the-G915-X-Series---The-Most-Advanced-Low-Profile-Gaming-Keyboard-Ever-Built/default.aspx",
+        "checked": "2026-10-19",
+        "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-blackwidow-v4-75",
+    "fields": [
+      "usdPriceQuote"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context.",
+    "nextAction": "Recheck the exact manufacturer SKU. Historical MSRP must not be relabeled as a current seller offer.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/gaming-keyboards/Razer-BlackWidow-V4-75/RZ03-05000200-R3U1",
+        "checked": "2026-10-19",
+        "outcome": "resolved — exact dated USD quote recorded with configuration and historical/current context."
+      }
+    ]
+  },
+  {
+    "modelId": "huntsman-mini",
+    "fields": [
+      "officialPage"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact named model has an accessible manufacturer page; not left in legacy queue.",
+    "nextAction": "Recheck this model-specific manufacturer page; keep regional configuration limitations explicit.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/gaming-keyboards/razer-huntsman-mini/RZ03-03393200-R3U1",
+        "checked": "2026-10-19",
+        "outcome": "Page explicitly names the catalog model; no dimensional facts adopted from a regional variant."
+      }
+    ]
+  },
+  {
+    "modelId": "pro-x-tkl",
+    "fields": [
+      "officialPage"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact named model has an accessible manufacturer page; not left in legacy queue.",
+    "nextAction": "Recheck this model-specific manufacturer page; keep regional configuration limitations explicit.",
+    "attempts": [
+      {
+        "url": "https://www.logitechg.com/en-us/shop/p/pro-x-tkl-wireless-keyboard.920-012127?searchclick=gaming&sp=1",
+        "checked": "2026-10-19",
+        "outcome": "Page explicitly names the catalog model; no dimensional facts adopted from a regional variant."
+      }
+    ]
+  },
+  {
+    "modelId": "cooler-master-ck720",
+    "fields": [
+      "officialPage"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact named model has an accessible manufacturer page; not left in legacy queue.",
+    "nextAction": "Recheck this model-specific manufacturer page; keep regional configuration limitations explicit.",
+    "attempts": [
+      {
+        "url": "https://legacy.coolermaster.com/en-gb/products/ck720/",
+        "checked": "2026-10-19",
+        "outcome": "Page explicitly names the catalog model; no dimensional facts adopted from a regional variant."
+      }
+    ]
+  },
+  {
+    "modelId": "leopold-fc750r-pd",
+    "fields": [
+      "officialPage"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact named model has an accessible manufacturer page; not left in legacy queue.",
+    "nextAction": "Recheck this model-specific manufacturer page; keep regional configuration limitations explicit.",
+    "attempts": [
+      {
+        "url": "https://m.leopold.co.kr/product/fc750r-pd-%EA%B7%B8%EB%A0%88%EC%9D%B4-%EB%B8%94%EB%A3%A8/179/",
+        "checked": "2026-10-19",
+        "outcome": "Page explicitly names the catalog model; no dimensional facts adopted from a regional variant."
+      }
+    ]
+  },
+  {
+    "modelId": "msi-vigor-gk50-low-profile-tkl",
+    "fields": [
+      "officialPage"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact named model has an accessible manufacturer page; not left in legacy queue.",
+    "nextAction": "Recheck this model-specific manufacturer page; keep regional configuration limitations explicit.",
+    "attempts": [
+      {
+        "url": "https://www.msi.com/Gaming-Gear/VIGOR-GK50-LOW-PROFILE-TKL/Overview",
+        "checked": "2026-10-19",
+        "outcome": "Page explicitly names the catalog model; no dimensional facts adopted from a regional variant."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-blackwidow-v4-75",
+    "fields": [
+      "officialPage"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "resolved — exact named model has an accessible manufacturer page; not left in legacy queue.",
+    "nextAction": "Recheck this model-specific manufacturer page; keep regional configuration limitations explicit.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/gaming-keyboards/Razer-BlackWidow-V4-75/RZ03-05000200-R3U1",
+        "checked": "2026-10-19",
+        "outcome": "Page explicitly names the catalog model; no dimensional facts adopted from a regional variant."
+      }
+    ]
+  },
+  {
+    "modelId": "razer-blackwidow-v4-75",
+    "fields": [
+      "releaseYear"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Resolved releaseYear from exact manufacturer announcement; Original assembled BlackWidow V4 75%; black availability 2023-08-17, white mid-September 2023; excludes barebones and later Phantom editions.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/introducing-the-razer-blackwidow-v4-75-the-pinnacle-of-customizable-keyboards",
+        "checked": "2026-10-19",
+        "outcome": "Original assembled BlackWidow V4 75%; black availability 2023-08-17, white mid-September 2023; excludes barebones and later Phantom editions."
+      }
+    ],
+    "nextAction": "Retain exact generation identity; inspect a new dated manufacturer announcement before changing this launch year."
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro",
+    "fields": [
+      "releaseYear"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Resolved releaseYear from exact manufacturer announcement; Original full-size Analog Optical Gen-2; announced 2023-09-21, general availability October 2023; excludes later 8KHz and low-profile editions.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/razercon-2023-lights-up-the-global-gaming-community-with-groundbreaking-announcements-exclusive-partnerships",
+        "checked": "2026-10-19",
+        "outcome": "Original full-size Analog Optical Gen-2; announced 2023-09-21, general availability October 2023; excludes later 8KHz and low-profile editions."
+      }
+    ],
+    "nextAction": "Retain exact generation identity; inspect a new dated manufacturer announcement before changing this launch year."
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro-mini",
+    "fields": [
+      "releaseYear"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Resolved releaseYear from exact manufacturer announcement; Original Mini explicitly announced and available for preorder 2023-09-21; exact general-availability date not established; excludes later variants.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/razercon-2023-lights-up-the-global-gaming-community-with-groundbreaking-announcements-exclusive-partnerships",
+        "checked": "2026-10-19",
+        "outcome": "Original Mini explicitly announced and available for preorder 2023-09-21; exact general-availability date not established; excludes later variants."
+      }
+    ],
+    "nextAction": "Retain exact generation identity; inspect a new dated manufacturer announcement before changing this launch year."
+  },
+  {
+    "modelId": "razer-huntsman-v3-pro-tenkeyless",
+    "fields": [
+      "releaseYear"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Resolved releaseYear from exact manufacturer announcement; Original Tenkeyless announced 2023-09-21, general availability October 2023; excludes later 8KHz and low-profile editions.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/razercon-2023-lights-up-the-global-gaming-community-with-groundbreaking-announcements-exclusive-partnerships",
+        "checked": "2026-10-19",
+        "outcome": "Original Tenkeyless announced 2023-09-21, general availability October 2023; excludes later 8KHz and low-profile editions."
+      }
+    ],
+    "nextAction": "Retain exact generation identity; inspect a new dated manufacturer announcement before changing this launch year."
+  },
+  {
+    "modelId": "razer-deathstalker-v2-pro",
+    "fields": [
+      "releaseYear"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Resolved releaseYear from exact manufacturer announcement; Exact full-size wireless Pro announced and available 2022-07-26; not the wired V2 or Pro Tenkeyless.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/high-profile-performance-in-a-low-profile-package-presenting-the-razer-deathstalker-v2",
+        "checked": "2026-10-19",
+        "outcome": "Exact full-size wireless Pro announced and available 2022-07-26; not the wired V2 or Pro Tenkeyless."
+      }
+    ],
+    "nextAction": "Retain exact generation identity; inspect a new dated manufacturer announcement before changing this launch year."
+  },
+  {
+    "modelId": "razer-deathstalker-v2-pro-tenkeyless",
+    "fields": [
+      "releaseYear"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Resolved releaseYear from exact manufacturer announcement; Exact wireless Pro Tenkeyless named in 2022-07-26 announcement with Q3 2022 availability; no exact launch day inferred from full-size Pro.",
+    "attempts": [
+      {
+        "url": "https://www.razer.com/newsroom/product-news/high-profile-performance-in-a-low-profile-package-presenting-the-razer-deathstalker-v2",
+        "checked": "2026-10-19",
+        "outcome": "Exact wireless Pro Tenkeyless named in 2022-07-26 announcement with Q3 2022 availability; no exact launch day inferred from full-size Pro."
+      }
+    ],
+    "nextAction": "Retain exact generation identity; inspect a new dated manufacturer announcement before changing this launch year."
+  },
+  {
+    "modelId": "razer-ornata-v3-x",
+    "fields": [
+      "releaseYear"
+    ],
+    "checked": "2026-10-19",
+    "outcome": "Unresolved: exact support/manual establishes identity but not release timing; no year borrowed from Ornata V3.",
+    "attempts": [
+      {
+        "url": "https://mysupport.razer.com/app/answers/detail/a_id/6071/~/razer-ornata-v3-x-%7C-rz03-0447x-support-%26-faqs",
+        "checked": "2026-10-19",
+        "outcome": "Support identifies RZ03-0447x; no exact manufacturer launch date established."
+      },
+      {
+        "url": "https://dl.razerzone.com/master-guides/RazerSynapse3/ORNATAV3X-00000660-en.pdf",
+        "checked": "2026-10-19",
+        "outcome": "Manual identifies exact variant; copyright is not launch evidence."
+      }
+    ],
+    "nextAction": "Locate a dated Razer-authored newsroom announcement or archived original product availability page for RZ03-0447x."
+  },
+  {
+    "modelId": "epomaker-carbon60",
+    "fields": [
+      "width",
+      "depth",
+      "height",
+      "weight",
+      "layout",
+      "keys",
+      "connectivity",
+      "lowProfile",
+      "wired",
+      "wireless",
+      "bluetooth",
+      "wireless24",
+      "ansi"
+    ],
+    "checked": "2026-10-20",
+    "outcome": "Resolved exact published Carbon60 specifications and field evidence; measurements retained unchanged, unavailable layout corrected.",
+    "attempts": [
+      {
+        "url": "https://epomaker.com/products/epomaker-carbon60",
+        "checked": "2026-10-20",
+        "outcome": "Exact manufacturer product table explicitly lists layout, keys, keyboard dimensions/weight, low profile and three connection modes."
+      }
+    ],
+    "nextAction": "Retain exact ANSI variant scope; revisit the manufacturer product table before changing these values."
+  },
+  {
+    "modelId": "epomaker-carbon60",
+    "fields": [
+      "iso",
+      "releaseYear"
+    ],
+    "checked": "2026-10-20",
+    "outcome": "Unresolved: listed ANSI configuration does not establish ISO edition availability; manual publication date does not establish release year.",
+    "attempts": [
+      {
+        "url": "https://epomaker.com/products/epomaker-carbon60",
+        "checked": "2026-10-20",
+        "outcome": "ANSI US layout listed; no explicit ISO availability statement or dated launch established."
+      },
+      {
+        "url": "https://epomaker.com/blogs/manuals/epomaker-carbon60-manual",
+        "checked": "2026-10-20",
+        "outcome": "January 27, 2025 is manual article publication, not an established launch date."
+      }
+    ],
+    "nextAction": "Ask EPOMAKER support for exact ISO edition availability and first commercial launch date, or locate its dated Carbon60 launch announcement."
+  }
+]
